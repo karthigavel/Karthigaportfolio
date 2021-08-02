@@ -598,6 +598,12 @@ footer .text span a:hover{
     font-size: 50px;
     color: #4070f4;
   }
+  .about .about-details{
+  display: flex;
+ 
+  align-items: center;
+ 
+}
 }
 
   
